@@ -16,7 +16,16 @@
     </tr>
 </table>
 
-<h2>Knowledge:</h2>
+<h2><br>Work:</h2>
+<h3 align="left">Back-End:&nbsp&nbsp&nbsp
+  <img align="center" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/>
+  &nbsp&nbsp
+  <img align="center" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
+  &nbsp&nbsp
+  <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  &nbsp&nbsp
+  <img align="center" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/> 
+</h3>
 
 <h3 align="left">Front-End:&nbsp&nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
@@ -28,26 +37,7 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>  
 </h3>
 
-<h3 align="left">Back-End:&nbsp&nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/>
-  &nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
-  &nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  &nbsp&nbsp
-  <img align="center" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="40" height="40"/> 
-</h3>
-
-<h3 align="left">Mobile:&nbsp&nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  &nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  &nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  &nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="switf" width="40" height="40"/> 
-</h3>
-
+<h2><br>School project:</h2>
 <h3 align="left">Electronics:&nbsp&nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
   &nbsp&nbsp
@@ -60,6 +50,24 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspb" width="40" height="40"/> 
 </h3>
 
+<h2><br>Personal project:</h2>
+<h3 align="left">Mobile:&nbsp&nbsp&nbsp
+  <img align="center" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  &nbsp&nbsp
+  <img align="center" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  &nbsp&nbsp
+  <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+  &nbsp&nbsp
+  <img align="center" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="switf" width="40" height="40"/> 
+</h3>
+
+<h2 align="left"><br>Learning:</h2>
+<h3>Machine Learning:&nbsp&nbsp&nbsp
+  <img align="center" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="40" height="40"/>   
+  &nbsp&nbsp           
+  <img align="center" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
+</h3>
+
 <h3 align="left"><br><br>Tools:&nbsp&nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="vscode" width="40" height="40"/>   
   &nbsp&nbsp          
@@ -68,11 +76,4 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   &nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>  
-</h3>
-
-<h2 align="left"><br><br>Learning:</h2>
-<h3>Machine Learning:&nbsp&nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="40" height="40"/>   
-  &nbsp&nbsp           
-  <img align="center" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
 </h3>
