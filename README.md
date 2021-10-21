@@ -37,7 +37,7 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>  
 </h3>
 
-<h2><br>School project:</h2>
+<h2><br>School projects:</h2>
 <h3 align="left">Electronics:&nbsp&nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
   &nbsp&nbsp
@@ -50,7 +50,7 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspb" width="40" height="40"/> 
 </h3>
 
-<h2><br>Personal project:</h2>
+<h2><br>Personal projects:</h2>
 <h3 align="left">Mobile:&nbsp&nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   &nbsp&nbsp
