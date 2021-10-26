@@ -5,17 +5,6 @@
   </a>
 </p>
 
-<table align="center">
-    <tr>
-        <td align="center">
-            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=marcosbuchert&layout=compact&theme=chartreuse-dark&langs_count=8&hide=" alt="marcosbuchert" height="180" width="300"/>
-        </td>
-        <td align="center">
-            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=marcosbuchert&show_icons=true&theme=chartreuse-dark&count_private=true&show_owner=true&include_all_commits=true" alt="marcosbuchert" height="180" width="350"/>
-        </td>
-    </tr>
-</table>
-
 <h2><br>Work:</h2>
 <h3 align="left">Back-End:&nbsp&nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40"/>
@@ -77,3 +66,14 @@
   &nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>  
 </h3>
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=marcosbuchert&layout=compact&theme=chartreuse-dark&langs_count=8&hide=" alt="marcosbuchert" height="180" width="300"/>
+        </td>
+        <td align="center">
+            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=marcosbuchert&show_icons=true&theme=chartreuse-dark&count_private=true&show_owner=true&include_all_commits=true" alt="marcosbuchert" height="180" width="350"/>
+        </td>
+    </tr>
+</table>
