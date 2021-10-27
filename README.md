@@ -66,12 +66,3 @@
   &nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>  
 </h3>
-
-<table align="center">
-  <p><br><br></p>
-    <tr>
-        <td align="center">
-            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=marcosbuchert&layout=compact&theme=chartreuse-dark&langs_count=8&hide=" alt="marcosbuchert" height="180" width="300"/>
-        </td>
-    </tr>
-</table>
