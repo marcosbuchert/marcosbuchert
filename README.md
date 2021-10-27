@@ -73,8 +73,5 @@
         <td align="center">
             <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/top-langs/?username=marcosbuchert&layout=compact&theme=chartreuse-dark&langs_count=8&hide=" alt="marcosbuchert" height="180" width="300"/>
         </td>
-        <td align="center">
-            <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api?username=marcosbuchert&show_icons=true&theme=chartreuse-dark&count_private=true&show_owner=true&include_all_commits=true" alt="marcosbuchert" height="180" width="350"/>
-        </td>
     </tr>
 </table>
