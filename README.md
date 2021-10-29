@@ -39,17 +39,6 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspb" width="40" height="40"/> 
 </h3>
 
-<h2><br>Personal projects:</h2>
-<h3 align="left">Mobile:&nbsp&nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  &nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  &nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  &nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="switf" width="40" height="40"/> 
-</h3>
-
 <h2 align="left"><br>Learning:</h2>
 <h3>Machine Learning:&nbsp&nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="py" width="40" height="40"/>   
