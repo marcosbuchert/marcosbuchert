@@ -65,6 +65,15 @@
   <img align="center" src="https://res.cloudinary.com/hdsqazxtw/image/upload/f_auto,q_auto/w_88/v1624887852/h3gkpfux7eiij0zg3rpy.png" alt="xampp" width="40" height="40"/> 
 </h3>
 
+<h3>Knowledge:&nbsp&nbsp&nbsp
+  <img align="center" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/>
+  &nbsp&nbsp
+  <img align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node js" width="40" height="40"/> 
+  &nbsp&nbsp
+  <img align="center" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+  &nbsp&nbsp
+  <img align="center" src="https://res.cloudinary.com/hdsqazxtw/image/upload/f_auto,q_auto/w_88/v1624887852/h3gkpfux7eiij0zg3rpy.png" alt="xampp" width="40" height="40"/> 
+
 <h3 align="left"><br><br>Tools:&nbsp&nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="vscode" width="40" height="40"/>   
   &nbsp&nbsp          
