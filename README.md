@@ -74,7 +74,7 @@
   &nbsp&nbsp
   <img align="center" src="https://res.cloudinary.com/hdsqazxtw/image/upload/f_auto,q_auto/w_88/v1624887852/h3gkpfux7eiij0zg3rpy.png" alt="xampp" width="40" height="40"/> 
 
-<h3 align="left"><br>Tools:&nbsp&nbsp&nbsp
+<h3 align="left">Tools:&nbsp&nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="vscode" width="40" height="40"/>   
   &nbsp&nbsp          
   <img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
