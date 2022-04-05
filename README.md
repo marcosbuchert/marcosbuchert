@@ -46,7 +46,8 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
 </h3>
 
-<h2 align="left"><br>Learning:</h2>
+<h2 align="left"><br>Learning:&nbsp&nbsp&nbsp</h2>
+<h3>
   <img align="center" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/>
   &nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node js" width="40" height="40"/> 
