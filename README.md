@@ -47,11 +47,6 @@
 </h3>
 
 <h2 align="left"><br>Learning:</h2>
-<h3>Back-End:&nbsp&nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="agular" width="40" height="40"/>     
-  &nbsp&nbsp
-  <img align="center" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue js" width="40" height="40"/>
-  &nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/>
   &nbsp&nbsp
   <img align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node js" width="40" height="40"/> 
